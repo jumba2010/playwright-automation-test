@@ -25,9 +25,9 @@ HOW TO RUN
  Set the following environment variables:
  
  ``` 
-USERNAME=mifos_user_name
-PASSWORD=mifos_password
-BASE_URL='https://demo.fiter.io/'
+USERNAME=mifos
+PASSWORD=password
+BASE_URL='https://demo.mifos.io/'
 TIME_OUT=50000
 TRACE='on'
 ```
@@ -41,4 +41,4 @@ MAINTAINERS
 -----------
 Current maintainers:
  * Judiao Mbaua
- * Rober Jakech
+
