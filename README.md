@@ -13,8 +13,9 @@ TECHNOLOGIES
 ------------
 This projects uses the following technologies:
 
+ * playwright V1.29.1
  * nodejs v10
- * faker
+ * faker v6.6.6
 
 
 HOW TO RUN
